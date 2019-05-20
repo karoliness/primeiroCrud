@@ -1,0 +1,14 @@
+C:\Users\Adriel\source\repos\Projeto01\Servico\bin\Debug\Servico.dll
+C:\Users\Adriel\source\repos\Projeto01\Servico\bin\Debug\Servico.pdb
+C:\Users\Adriel\source\repos\Projeto01\Servico\bin\Debug\Modelo.dll
+C:\Users\Adriel\source\repos\Projeto01\Servico\bin\Debug\Persistencia.dll
+C:\Users\Adriel\source\repos\Projeto01\Servico\bin\Debug\EntityFramework.dll
+C:\Users\Adriel\source\repos\Projeto01\Servico\bin\Debug\Modelo.pdb
+C:\Users\Adriel\source\repos\Projeto01\Servico\bin\Debug\Persistencia.pdb
+C:\Users\Adriel\source\repos\Projeto01\Servico\bin\Debug\Persistencia.dll.config
+C:\Users\Adriel\source\repos\Projeto01\Servico\bin\Debug\EntityFramework.xml
+C:\Users\Adriel\source\repos\Projeto01\Servico\obj\Debug\Servico.csprojAssemblyReference.cache
+C:\Users\Adriel\source\repos\Projeto01\Servico\obj\Debug\Servico.csproj.CoreCompileInputs.cache
+C:\Users\Adriel\source\repos\Projeto01\Servico\obj\Debug\Servico.csproj.CopyComplete
+C:\Users\Adriel\source\repos\Projeto01\Servico\obj\Debug\Servico.dll
+C:\Users\Adriel\source\repos\Projeto01\Servico\obj\Debug\Servico.pdb

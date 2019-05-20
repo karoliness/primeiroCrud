@@ -1,0 +1,14 @@
+C:\Users\Adriel\source\repos\Projeto01\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+C:\Users\Adriel\source\repos\Projeto01\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Adriel\source\repos\Projeto01\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\Adriel\source\repos\Projeto01\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Adriel\source\repos\Projeto01\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Adriel\source\repos\Projeto01\Persistencia\bin\Debug\EntityFramework.dll
+C:\Users\Adriel\source\repos\Projeto01\Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adriel\source\repos\Projeto01\Persistencia\bin\Debug\Modelo.dll
+C:\Users\Adriel\source\repos\Projeto01\Persistencia\bin\Debug\Modelo.pdb
+C:\Users\Adriel\source\repos\Projeto01\Persistencia\bin\Debug\EntityFramework.xml
+C:\Users\Adriel\source\repos\Projeto01\Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adriel\source\repos\Projeto01\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\Adriel\source\repos\Projeto01\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Adriel\source\repos\Projeto01\Persistencia\obj\Debug\Persistencia.pdb
